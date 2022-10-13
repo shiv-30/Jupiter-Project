@@ -1,5 +1,0 @@
-package com.assessment_details.repository;
-
-public interface AssessmentRepository {
-
-}
