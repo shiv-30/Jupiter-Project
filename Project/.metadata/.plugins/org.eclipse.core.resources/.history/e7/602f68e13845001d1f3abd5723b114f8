@@ -1,0 +1,9 @@
+package com.assessment_details.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.assessment_details.model.Assessment;
+
+public interface AssessmentRepository extends JpaRepository<Assessment, Integer> {
+
+}

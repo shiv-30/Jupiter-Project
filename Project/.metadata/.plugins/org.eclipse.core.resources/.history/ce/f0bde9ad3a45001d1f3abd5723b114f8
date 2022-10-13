@@ -1,0 +1,13 @@
+package com.assessment_details.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.assessment_details.repository.AssessmentRepository;
+
+public class AssessmentService {
+	
+	@Autowired
+	private AssessmentRepository assessmentRepository;
+	
+	public List<Assessment> getAll
+}

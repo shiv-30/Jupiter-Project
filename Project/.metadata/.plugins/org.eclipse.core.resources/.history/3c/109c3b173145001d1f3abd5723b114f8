@@ -1,0 +1,5 @@
+package com.assessment_details.model;
+
+public class Assessment {
+
+}
